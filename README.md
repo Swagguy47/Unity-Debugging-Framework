@@ -18,10 +18,10 @@ Example usage:
 - UnityEvent-based functionality
 
 ## How to setup:
-Fix any errors upon initial import (obviously)
-Place debugMenu prefab (or create one yourself) in your UI canvas
-Setup all pages as you wish, (default homepage under: `Assets/debugFramework/DevPages/`)
-Setup dev events on debugMenu gameobject to correlate with your pages
++ Fix any errors upon initial import (obviously)
++ Place debugMenu prefab (or create one yourself) in your UI canvas
++ Setup all pages as you wish, (default homepage under: `Assets/debugFramework/DevPages/`)
++ Setup dev events on debugMenu gameobject to correlate with your pages
 
 # ScriptableObject parameters:
 ## Page Content:
