@@ -7,7 +7,7 @@ Example usage:
 
 ## Supported element types:
 - Button
-- Slider / float field
+- Float field
 - Sub menu
 
 ## Useful features:
@@ -40,4 +40,4 @@ Example usage:
 
 "**Subpage**" = (only used if ElementType = SubPage) which page to open upon interaction.
 
-"**Element Type**" = Describes what type the element will be represented as, between plain button, float input/slider, & subpage button (opens another menu)
+"**Element Type**" = Describes what type the element will be represented as, between plain button, float input, & subpage button (opens another menu)
