@@ -1,6 +1,10 @@
 # Unity-Debugging-Framework
 An extendable, ScriptableObject-based dev menu framework that removes itself on build.
 
+Example usage:
+![image](https://github.com/Swagguy47/Unity-Debugging-Framework/assets/67041649/aadf419c-99c1-4060-b11b-d08c8b9e083a)
+
+
 ## Supported element types:
 - Button
 - Slider / float field
